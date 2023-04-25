@@ -1,5 +1,4 @@
-# Hotel Cancellations
-
+# Authors
 Cierra Koen
 _Machine Learning_
 _Georgia State University_
@@ -17,6 +16,10 @@ _Machine Learning_
 _Georgia State University_
 Atlanta, Georgia
  oward3@student.gsu.edu
+ 
+# Hotel Cancellations
+
+
 
 **_Abstract_— Bookings for hotels, which are frequently made in advance by tourists looking for a cozy and dependable place to stay, are extremely important to the hospitality business. Nevertheless, even if a room is reserved, a cancellation may occur due to a variety of reasons. We used various machine learning techniques and validation splits to examine Jesse Mostipak's "Hotel Booking Demand" Kaggle dataset to pinpoint the causes influencing this trend. Identifying a binary classification model with a high accuracy and f1-score or a R2 score and mean standard error that can predict possible hotel cancellations was our main objective. By doing so, we hoped to get knowledge that may aid hotel managers in streamlining their operations and raising client happiness.**
 
