@@ -131,44 +131,45 @@ Table 4 illustrates the top 13 models which were determined by the highest f1-sc
 
 **conference temcontain guidance text for your paper not being published**
 
-![](RackMultipart20230425-1-afc5lx_html_b29e3d12957e6bec.png)
-
-![](RackMultipart20230425-1-afc5lx_html_6e4b347876cde14d.png)Figure 1: splits for Decision Tree Classifier
-
-![](RackMultipart20230425-1-afc5lx_html_58ea9f53198228c3.png)
-
-Figure 3: splits for Gaussian Naïve Bayes
+Figure 1: splits for Decision Tree Classifier
+![image](https://user-images.githubusercontent.com/77362614/234162631-7842498b-0282-4f0d-9bb7-f9449d533dba.png)
 
 Figure 2: splits for Perceptron
+![image](https://user-images.githubusercontent.com/77362614/234162738-e108a768-2b27-408c-9d0e-eae6cf2fbf33.png)
 
-![](RackMultipart20230425-1-afc5lx_html_8858a221428dd843.png) ![](RackMultipart20230425-1-afc5lx_html_cf0920bd4435e0af.png) ![](RackMultipart20230425-1-afc5lx_html_fc5f03fb817f211f.png)
-
-Figure 5: splits for Linear Regression
+Figure 3: splits for Gaussian Naïve Bayes
+![image](https://user-images.githubusercontent.com/77362614/234162787-8b57d132-2367-40ad-b3e4-407418812bb7.png)
 
 Figure 4: splits for Logistic Regression
+![image](https://user-images.githubusercontent.com/77362614/234162834-0c631ce3-0a87-4953-b991-42c2f5a5c644.png)
+
+Figure 5: splits for Linear Regression
+![image](https://user-images.githubusercontent.com/77362614/234162856-3b3d1ed8-644e-4319-9a63-7b12c59db3da.png)
 
 Figure 6: splits for Ridge Regression
-
-![](RackMultipart20230425-1-afc5lx_html_3886aa2757d39d2c.png) ![](RackMultipart20230425-1-afc5lx_html_9cc8589207a6e14e.png) ![](RackMultipart20230425-1-afc5lx_html_41446667aae30675.png)
-
-Figure 9: splits for Gradient Boosting Classifier
-
-Figure 8: splits for SVC (RBF Kernel)
+![image](https://user-images.githubusercontent.com/77362614/234162944-748dc7bf-5fb7-4f46-835a-547ef55c4510.png)
 
 Figure 7: splits for (SVC Linear Kernel)
+![image](https://user-images.githubusercontent.com/77362614/234162984-d3ba5936-0d91-48c4-96a9-6feb32f3b3a5.png)
 
-![](RackMultipart20230425-1-afc5lx_html_1162b95603a3a18f.png) ![](RackMultipart20230425-1-afc5lx_html_292e9b5a8a99a15a.png)
- ![](RackMultipart20230425-1-afc5lx_html_918186a3b4005d95.png)
+Figure 8: splits for SVC (RBF Kernel)
+![image](https://user-images.githubusercontent.com/77362614/234163047-e303ebf4-4ee3-42b0-8516-329c25cf94fe.png)
 
-Figure 11: splits for Random Forest Classifier
-
-Figure 12: splits for K-Neighbors Classifier
+Figure 9: splits for Gradient Boosting Classifier
+![image](https://user-images.githubusercontent.com/77362614/234163137-ea6fbdb2-b2a1-4f5c-b7df-59462ddc64d9.png)
 
 Figure 10: splits for MLP Classifier
+![image](https://user-images.githubusercontent.com/77362614/234163154-7be47c42-dc2c-4e23-a54f-5f14f9045b74.png)
 
-![](RackMultipart20230425-1-afc5lx_html_684cd6ff97a8298f.png)
+Figure 11: splits for Random Forest Classifier
+![image](https://user-images.githubusercontent.com/77362614/234163185-93122edd-ae5c-427e-a195-bc06874f2b7d.png)
+
+Figure 12: splits for K-Neighbors Classifier
+![image](https://user-images.githubusercontent.com/77362614/234163218-09c675a6-7053-4ef3-874d-0e41f4a79a99.png)
 
 Figure 13: splits for Ada Boost Classifier
+![image](https://user-images.githubusercontent.com/77362614/234163237-5bdf376f-8024-4f0b-96bb-c6161fd4662a.png)
+
 
 Table 1: 80-20 split table for all models
 
