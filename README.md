@@ -237,7 +237,7 @@ Table 3: 50-30 split table for all models
 | Linear Regression | 0.4126 | 0.1362 | 0.3003 | 0.2646 |
 | Ridge Regression | 0.4139 | 0.1359 | 0.3008 | 0.2671 |
 
-Table 3: Best 13 Models
+Table 4: Best 13 Models
 
 | **Algorithm** | **Precision** | **Recall** | **F1-Score** | **Accuracy** |
 | --- | --- | --- | --- | --- |
